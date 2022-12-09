@@ -1,0 +1,12 @@
+.nav-container {
+    height: 70px;
+    background-color: #245EEE;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
